@@ -73,7 +73,7 @@ public class Processor {
                     break;
 
                 case 0:
-                    animalList.displayAll();
+                   animalList.displayAll(); 
                     break;
 
                 default:
